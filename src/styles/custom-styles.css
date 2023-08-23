@@ -1,6 +1,7 @@
 /* gradient heading */
 .main-heading {
   display: inline-block;
+  padding-bottom: 20px;
   margin: 2rem 0;
   font-style: normal;
   font-weight: 600;
