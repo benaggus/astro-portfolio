@@ -7,9 +7,9 @@
   font-weight: 600;
   background: linear-gradient(
     89.81deg,
-    #9845e8 -1.72%,
-    #33d2ff 54.05%,
-    #dd5789 99.78%
+    hsl(0, 0%, 44%) -1.72%,
+    hsl(34, 98%, 50%) 54.05%,
+    hsl(0, 0%, 44%) 99.78%
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
